@@ -12,7 +12,6 @@ export ICON=/usr/share/icons/hicolor/128x128/apps/org.xfce.ristretto.png
 export DESKTOP=/usr/share/applications/org.xfce.ristretto.desktop
 export ALWAYS_SOFTWARE=1
 export APPNAME=Ristretto
-export GTK_CLASS_FIX=1
 
 # Deploy dependencies
 quick-sharun /usr/bin/ristretto
